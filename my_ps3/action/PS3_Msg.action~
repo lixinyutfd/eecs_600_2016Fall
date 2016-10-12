@@ -1,0 +1,15 @@
+#goal definition
+#the lines with the hash signs are merely comments
+#goal, result and feedback are defined by this fixed order, and separated by 3 hyphens
+#For both goal and result, A, omega, n represents for Amplitute, frequency, number of cycles.
+float64 A 
+float64 omega
+int32 n
+---
+#result definition
+float64 A 
+float64 omega
+int32 n
+---
+#feedback
+int32 fdbk

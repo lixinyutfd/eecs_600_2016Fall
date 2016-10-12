@@ -1,0 +1,10 @@
+#this is the customed service msg
+float64 A
+float64 omega
+---
+float64 A
+float64 omega
+
+
+#A represents for the amplitude
+#omega represents for the frequency

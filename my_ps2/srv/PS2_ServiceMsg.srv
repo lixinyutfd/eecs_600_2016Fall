@@ -1,0 +1,12 @@
+#this is the customed service msg
+#Service Request:
+float64 A
+float64 omega
+---
+#Service Response:
+float64 A
+float64 omega
+
+
+#A represents for the amplitude
+#omega represents for the frequency

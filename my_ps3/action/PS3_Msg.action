@@ -1,0 +1,11 @@
+#goal definition
+float64 A
+float64 omega
+int64 n
+---
+#result definition
+float64 A
+float64 omega
+int64 n
+---
+#feedback

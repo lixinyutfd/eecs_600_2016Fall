@@ -1,0 +1,6 @@
+<launch>
+<node name = "ps4_j1_controller" pkg = "my_ps4" type = "ps4_j1_controller" />
+<node name = "ps4_j2_controller" pkg = "my_ps4" type = "ps4_j2_controller" />
+<node name = "ps4_j1_commander" pkg = "my_ps4" type = "ps4_j1_commander" />
+<node name = "ps4_j1_commander" pkg = "my_ps4" type = "ps4_j1_commander" />
+</launch>

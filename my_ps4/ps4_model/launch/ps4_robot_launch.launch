@@ -1,0 +1,3 @@
+<launch>
+<param name ="ps4_robot" textfile = "$(find ps4_robot)/ps4_model.urdf"/>
+</launch>
