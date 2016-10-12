@@ -1,0 +1,4 @@
+#This is the assignment repo for EECS600 course
+#Created by XinyuLi 2016.10
+This package includes all the submitted assignment for eecs600 course.
+To be updated.
