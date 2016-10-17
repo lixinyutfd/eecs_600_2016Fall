@@ -72,21 +72,21 @@
 <!-- Moveable Link -->
   <link name="link3">
     <collision>
-      <origin xyz="0 0 0.5" rpy="0 0 0"/>
+      <origin xyz="0 0 1" rpy="0 0 0"/>
       <geometry>
-        <cylinder length="0.5" radius="0.05"/>
+        <cylinder length="2" radius="0.05"/>
       </geometry>
     </collision>
 
     <visual>
-      <origin xyz="0 0 0.5" rpy="0 0 0"/>
+      <origin xyz="0 0 1" rpy="0 0 0"/>
       <geometry>
-        <cylinder length="0.5" radius="0.05"/>
+        <cylinder length="2" radius="0.05"/>
       </geometry>
     </visual>
 
     <inertial>
-      <origin xyz="0 0 0.3" rpy="0 0 0"/>
+      <origin xyz="0 0 0.25" rpy="0 0 0"/>
       <mass value="0.5"/>
       <inertia
         ixx="0.05" ixy="0.0" ixz="0.0"
