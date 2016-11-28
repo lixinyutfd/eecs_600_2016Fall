@@ -3,7 +3,7 @@
 Your description goes here
 ####very important here:
 In order to run this package correctly, you should first download file "sticky_fingers_manip_fncs.cpp"
-in "ps9_external".
+in ps9_external.
 Then you should replace the file same name in "learning_ros"(part5/object_manipulation_properties) with it.
 
 roscd &&catkin_make
